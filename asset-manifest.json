@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zoho-books/static/css/main.5f361e03.chunk.css",
+    "main.js": "/zoho-books/static/js/main.04e3a49c.chunk.js",
+    "main.js.map": "/zoho-books/static/js/main.04e3a49c.chunk.js.map",
+    "runtime-main.js": "/zoho-books/static/js/runtime-main.b91aa810.js",
+    "runtime-main.js.map": "/zoho-books/static/js/runtime-main.b91aa810.js.map",
+    "static/js/2.ba0c5d93.chunk.js": "/zoho-books/static/js/2.ba0c5d93.chunk.js",
+    "static/js/2.ba0c5d93.chunk.js.map": "/zoho-books/static/js/2.ba0c5d93.chunk.js.map",
+    "index.html": "/zoho-books/index.html",
+    "precache-manifest.c3a1872ada3533ecbb07e4820df12405.js": "/zoho-books/precache-manifest.c3a1872ada3533ecbb07e4820df12405.js",
+    "service-worker.js": "/zoho-books/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/zoho-books/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ba0c5d93.chunk.js.LICENSE.txt": "/zoho-books/static/js/2.ba0c5d93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b91aa810.js",
+    "static/js/2.ba0c5d93.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.04e3a49c.chunk.js"
+  ]
+}
